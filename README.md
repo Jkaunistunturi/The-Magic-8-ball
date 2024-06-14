@@ -4,15 +4,15 @@ This small C# project is simpler version of my other project, The Oracle which i
 The program is build to demonstrate some code examples from C#-course part 1 and 2 videos: 
 
 
-##### while loop
-##### variables
-##### operators
-##### comments
-##### if else statements
-##### switch cases
+* while loop
+* variables
+* operators
+* comments
+* if else statements
+* switch cases
 
-## Other:
-##### takes user input (name) and holds it through the program 
+### Other:
+* takes user input (name) and holds it through the program 
 
 Hox:
 -use lowercase when typing question

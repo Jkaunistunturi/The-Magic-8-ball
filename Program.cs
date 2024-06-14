@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+
+   
         static void Main(string[] args)
         {
             //A magic 8-ball style program that asks user three questions and gives different answers with a random number generator
@@ -9,7 +11,8 @@
             Console.WriteLine("Enter your name: ");
             string name = Console.ReadLine();
 
-            //The random number generator, hox! the stored "randomNum" works, but won't generate new num inside our loop, so we have to use the 'raw' version
+            /*The random number generator, hox! the stored "randomNum" works,
+            but won't generate new num inside our loop, so we have to use the 'raw' version */
             Random rnd = new Random();
             int randomNum = rnd.Next(0, 4);
 
