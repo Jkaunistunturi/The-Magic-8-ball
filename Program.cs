@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //A magic 8-ball style program that asks user three questions and gives different answers with a random number generator
-            Console.WriteLine("I am the magic 8-ball, I will give answers to 3 questions.");
+            Console.WriteLine("I am the magic 8-ball, I will give answers to 3 questions. Use ");
             Console.WriteLine("Enter your name: ");
             string name = Console.ReadLine();
 
